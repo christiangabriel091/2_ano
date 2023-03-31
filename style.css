@@ -97,6 +97,14 @@ body {
     display: none;
 }
 
+#img8 {
+    display: none;
+}
+
+#img9 {
+    display: none;
+}
+
 .menu-images {
     height: 80px;
     justify-content: center;
